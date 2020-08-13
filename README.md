@@ -1,1 +1,3 @@
-# cv
+index.html
+contact.html
+hobbies.html
